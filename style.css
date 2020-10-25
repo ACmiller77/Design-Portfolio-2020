@@ -23,3 +23,13 @@
   font-family: "arial", serif;
 
 }
+
+.about-me {
+  background-color: gray;
+}
+
+.blurb {
+  color: black;
+  font-size: large;
+  font-family: "arial", serif;
+}
