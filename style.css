@@ -4,7 +4,7 @@
   height: 100vh;
   max-width: 100%;
 
-  background-image: url('images/City lights.jpg');
+  background-color: black;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -18,28 +18,43 @@
 }
 
 .hero-text {
-  color: red;
-  font-size: 10vw;
-  font-family: "arial", serif;
+  color: rgb(72,72,72);
+  font-size: 15vw;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
 
+  transform: skewY(-11deg);
+
+}
+
+.hero-text-smaller {
+  color: rgb(72,72,72);
+  font-size: 4vw;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+
+  transform: skewY(-11deg);
 }
 
 .about-me {
-  background-color: gray;
+  background-color: black;
 }
 
 .blurb {
+  background-color: rgb(72,72,72);
   color: black;
-  font-size: 150%;
-  font-family: "arial", sans-serif;
-  font-weight: bold;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  font-size: 200%;
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 900;
+  padding: 30px;
+
 }
 
 .blurb-2 {
-  color: black;
-  font-size: 100%;
-  font-family: "garamond", serif;
-  padding-top: 20px;
+  color: rgb(72,72,72);
+  font-size: 120%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  padding-left: 50px;
+  letter-spacing: .1em;
 }
