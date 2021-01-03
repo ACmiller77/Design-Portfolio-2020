@@ -18,7 +18,7 @@
 }
 
 .hero-text {
-  color: rgb(72,72,72);
+  color: rgb(187, 187, 187);
   font-size: 15vw;
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
@@ -28,7 +28,7 @@
 }
 
 .hero-text-smaller {
-  color: rgb(72,72,72);
+  color: rgb(187, 187, 187);
   font-size: 4vw;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
@@ -41,7 +41,7 @@
 }
 
 .blurb {
-  background-color: rgb(72,72,72);
+  background-color: rgb(187, 187, 187);
   color: black;
   font-size: 200%;
   font-family: 'Roboto Slab', sans-serif;
@@ -50,7 +50,7 @@
 }
 
 .blurb-2 {
-  color: rgb(72,72,72);
+  color: rgb(187, 187, 187);
   font-size: 120%;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -60,9 +60,8 @@
 
 .awards {
   width: 100vw;
-  height: 100vh;
   max-width: 100%;
-  background-color: rgb(72,72,72);
+  background-color: rgb(187, 187, 187);
 }
 
 .h1 {
@@ -71,3 +70,89 @@
   font-size: 400%;
   padding-top: 100px;
 }
+
+.body-text {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+}
+
+.page img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: block;
+  margin: auto;
+
+}
+
+.news-design {
+  width: 100vw;
+  max-width: 100%;
+  background-color: white;
+}
+
+.h1-gray {
+  font-family: 'Roboto Slab', sans-serif;
+  color: rgb(72,72,72);
+  font-size: 400%;
+  padding-top: 100px;
+}
+
+.body-text-gray {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(72,72,72);
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .magazine-design {
+   width: 100vw;
+   max-width: 100%;
+   background-color: rgb(196,231,245);
+ }
+
+ .advertising {
+   width: 100vw;
+   max-width: 100%;
+   background-color: white;
+ }
+
+ .logos {
+   width: 100vw;
+   max-width: 100%;
+   background-color: rgb(187, 187, 187);
+ }
+
+ .digital-layout {
+   width: 100vw;
+   max-width: 100%;
+   background-color: black;
+ }
+
+ .web-design {
+   width: 100vw;
+   max-width: 100%;
+   background-color: rgb(187, 187, 187);
+ }
+
+ .footer {
+   background-color: black;
+ }
+
+ .h2 {
+   font-family: 'Roboto Slab', sans-serif;
+   color: black;
+   font-size: 200%;
+   padding-top: 75px;
+ }
+
+ a {
+   color: rgb(187, 187, 187);
+ }
+
+ .ender {
+   padding-bottom: 80px;
+ }
