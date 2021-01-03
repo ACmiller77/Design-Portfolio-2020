@@ -56,6 +56,18 @@
   font-weight: 300;
   padding-left: 50px;
   letter-spacing: .1em;
+
+}
+
+.blurb-mobile {
+  color: rgb(187, 187, 187);
+  font-size: 120%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  letter-spacing: .1em;
 }
 
 .awards {
@@ -69,6 +81,8 @@
   color: black;
   font-size: 400%;
   padding-top: 100px;
+  padding-bottom: 20px;
+  line-height: 100%;
 }
 
 .body-text {
@@ -95,6 +109,8 @@
   color: rgb(72,72,72);
   font-size: 400%;
   padding-top: 100px;
+  padding-bottom: 20px;
+  line-height: 100%;
 }
 
 .body-text-gray {
